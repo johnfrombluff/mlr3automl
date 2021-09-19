@@ -267,9 +267,7 @@ Package to be used: either \code{DALEX} or \code{iml}. Defaults to \code{DALEX}.
 }
 \if{html}{\out{</div>}}
 }
-\subsection{Returns}{
-\link[=explainer object]{\code{explainer} object}
-}
+
 }
 \if{html}{\out{<hr>}}
 \if{html}{\out{<a id="method-clone"></a>}}
